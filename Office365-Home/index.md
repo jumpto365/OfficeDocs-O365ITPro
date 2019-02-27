@@ -2,7 +2,7 @@
 layout: HubPage
 hide_bc: true
 title: Manage Office 365
-description: Manage Office 365
+description: Manage Office 365 in my Company
 ---
 <div id="main" class="v2">
     <div class="container">
